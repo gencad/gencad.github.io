@@ -1,14 +1,14 @@
-# Nerfies
+# GenCAD
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This website is based on the repository for the [Nerfies website](https://nerfies.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find GenCAD useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{alam2024gencad,
+  title={Gencad: Image-conditioned computer-aided design generation with transformer-based contrastive representation and diffusion priors},
+  author={Alam, Md Ferdous and Ahmed, Faez},
+  journal={arXiv preprint arXiv:2409.16294},
+  year={2024}
 }
 ```
 
